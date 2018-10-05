@@ -3,3 +3,5 @@ A simple iOS mobile application written in Swift, that utilizes Google Firebase 
 
 Users can create new accounts, login with existing accounts, write new posts, and view all posts ever written.
 All user data and post data is stored on Firebase.
+
+Feel free to browse the design for this project: https://aruparc.github.io/post.html
